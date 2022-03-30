@@ -1,5 +1,5 @@
 package com.temkpr.pawintail.entity;
 
-public class Products {
+public class Products {ㅇㄹㄴㅇㄹㄴㅇㄹ
     
 }
